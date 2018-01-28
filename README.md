@@ -21,3 +21,4 @@ Assignments
 |------------|--------------|---------|-------------|
 |markfirmware|markfirmware  |-5       |Windows      |
 |pjde        |pjde          |+10      |             |
+|Gavinmc42   |Gavinmc42     |+10      |Linux        |
